@@ -1,0 +1,38 @@
+{
+  "name": "hapi-postgresql-typescript-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build": "gulp script",
+    "postinstall": "typings install"
+  },
+  "author": "DY Liew",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-nodemon": "^2.0.6",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.13.0",
+    "ts-node": "^0.7.2",
+    "tslint": "^3.7.4",
+    "typescript": "^1.8.10",
+    "typings": "^0.7.12"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "boom": "^3.1.2",
+    "glob": "^7.0.3",
+    "good": "^6.6.0",
+    "good-console": "^5.3.1",
+    "good-file": "^5.1.2",
+    "hapi": "^13.3.0",
+    "hapi-auth-jwt2": "^5.8.0",
+    "inert": "^3.2.0",
+    "jsonwebtoken": "^5.7.0",
+    "lodash": "^4.11.0",
+    "massive": "^2.2.0",
+    "moment": "^2.12.0"
+  }
+}

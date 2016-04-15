@@ -1,0 +1,21 @@
+{
+  "ambientDependencies": {
+    "bcryptjs": "registry:dt/bcryptjs#2.3.0+20151217030501",
+    "boom": "registry:dt/boom#0.0.0+20160317120654",
+    "buffers": "registry:dt/buffers#0.1.1+20160316155526",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "glob": "registry:dt/glob#5.0.10+20160317120654",
+    "gulp": "registry:dt/gulp#3.8.0+20160316155526",
+    "gulp-sourcemaps": "registry:dt/gulp-sourcemaps#0.0.0+20160316155526",
+    "gulp-typescript": "registry:dt/gulp-typescript#0.0.0+20160317120654",
+    "hapi": "registry:dt/hapi#13.0.0+20160406115650",
+    "jsonwebtoken": "registry:dt/jsonwebtoken#5.7.0+20160227192404",
+    "lodash": "registry:dt/lodash#3.10.0+20160330154726",
+    "minimatch": "registry:dt/minimatch#2.0.8+20160317120654",
+    "moment": "registry:dt/moment#2.8.0+20160316155526",
+    "moment-node": "registry:dt/moment-node#2.11.1+20160329220348",
+    "node": "registry:dt/node#4.0.0+20160412142033",
+    "orchestrator": "registry:dt/orchestrator#0.0.0+20160316155526",
+    "q": "registry:dt/q#0.0.0+20160323171452"
+  }
+}

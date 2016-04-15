@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "removeComments": true,
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "outDir": "bin",
+        "pretty": true,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "bin",
+        "typings/main",
+        "typings/main.d.ts",
+        ".vscode",
+        "maps"
+    ]
+}
